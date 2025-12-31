@@ -271,13 +271,10 @@ smart-or-controller/
 
 ### Application Screenshots
 
-| Main Dashboard | Patient Monitor | Environment Control |
-|:--------------:|:---------------:|:-------------------:|
-| ![Dashboard](Main%20Dashboard.png) | ![Monitor](Patient%20Monitor.png) | ![Environment](Environment%20Control.png) |
+| Main Dashboard | Patient Monitor | Environment Control | Application Launch |
+|:--------------:|:---------------:|:-------------------:|:------------------:|
+| ![Dashboard](Main%20Dashboard.png) | ![Monitor](Patient%20Monitor.png) | ![Environment](Environment%20Control.png) | ![Launch](app%20lunching.png) |
 
-| Application Launch |
-|:------------------:|
-| ![Launch](app%20lunching.png) |
 
 </div>
 
@@ -453,19 +450,10 @@ SOFTWARE.
 - GitHub: [@youssef-ben-letaifa](https://github.com/youssef-ben-letaifa)
 - LinkedIn: [Youssef Ben Letaifa](https://www.linkedin.com/in/youssefbenletaifa/)
 - Portfolio: [youssef-ben-letaifa.github.io](https://youssef-ben-letaifa.github.io/ben.letaifa.youssef/)
-- Email: your.email@example.com
-
+- Email: youssef.benletaifa@intek.u-jendouba.tn
 ---
 
-## 🙏 Acknowledgments
 
-- **MediaPipe Team** - Hand gesture recognition framework
-- **OpenCV Community** - Computer vision tools
-- **Qt/PyQt6** - Cross-platform GUI framework
-- **Medical Professionals** - Feedback and requirements
-- **Open Source Community** - Continuous support and contributions
-
----
 
 ## ⚠️ Disclaimer
 
