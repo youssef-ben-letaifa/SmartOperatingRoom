@@ -1,0 +1,178 @@
+
+/* Global Dark Mode Settings V4 */
+QMainWindow, QWidget {
+    background-color: #121212;
+    font-family: "Segoe UI", "Robot", sans-serif;
+    color: #E0E0E0;
+    font-size: 16px;
+}
+
+/* Headings */
+QLabel#header {
+    font-size: 28px;
+    font-weight: bold;
+    color: #2196F3;
+    margin-bottom: 20px;
+}
+
+QLabel#subheader {
+    font-size: 20px;
+    font-weight: 600;
+    color: #90CAF9;
+    margin-bottom: 10px;
+}
+
+/* Cards & Containers */
+QFrame#card, QFrame#step_card {
+    background-color: #1E1E1E;
+    border: 1px solid #333333;
+    border-radius: 8px;
+}
+
+/* Top Navigation Bar */
+QWidget#top_bar {
+    background-color: #1E1E1E;
+    border-bottom: 2px solid #333333;
+}
+
+QPushButton#nav_btn {
+    background-color: transparent;
+    border: none;
+    color: #9E9E9E;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-bottom: 3px solid transparent;
+}
+
+QPushButton#nav_btn:hover {
+    color: #64B5F6;
+    background-color: #263238;
+}
+
+QPushButton#nav_btn:checked {
+    color: #2196F3;
+    border-bottom: 3px solid #2196F3;
+    font-weight: bold;
+}
+
+/* General Buttons */
+QPushButton {
+    background-color: #37474F;
+    border: 1px solid #546E7A;
+    border-radius: 6px;
+    color: #FFFFFF;
+    padding: 8px 16px;
+    font-weight: bold;
+}
+
+QPushButton:hover {
+    background-color: #455A64;
+    border-color: #2196F3;
+}
+
+QPushButton:pressed {
+    background-color: #0D47A1;
+}
+
+/* Inputs */
+QLineEdit, QTextEdit, QComboBox, QSpinBox, QDateEdit {
+    background-color: #263238;
+    border: 1px solid #455A64;
+    border-radius: 4px;
+    padding: 8px;
+    color: #FFFFFF;
+    selection-background-color: #2196F3;
+}
+
+QLineEdit:focus {
+    border: 2px solid #2196F3;
+}
+
+/* Tables */
+QTableWidget {
+    background-color: #1E1E1E;
+    gridline-color: #333333;
+    border: 1px solid #333333;
+    color: #E0E0E0;
+}
+
+QHeaderView::section {
+    background-color: #263238;
+    padding: 8px;
+    border: none;
+    font-weight: bold;
+    color: #E0E0E0;
+}
+
+/* ScrollBars */
+QScrollBar:vertical {
+    border: none;
+    background: #121212;
+    width: 10px;
+    margin: 0px 0px 0px 0px;
+}
+QScrollBar::handle:vertical {
+    background: #424242;
+    min-height: 20px;
+    border-radius: 5px;
+}
+QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
+    height: 0px;
+}
+
+/* Special Widgets */
+QProgressBar {
+    border: 1px solid #444;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+    background-color: #1E1E1E;
+}
+QProgressBar::chunk {
+    background-color: #2196F3;
+    border-radius: 4px;
+}
+
+/* Machine Toggles */
+QPushButton#machine_toggle {
+    background-color: #333;
+    border: 1px solid #555;
+    color: #AAA;
+}
+QPushButton#machine_toggle:checked {
+    background-color: #2E7D32; /* Green ON */
+    color: white;
+    border: 1px solid #2E7D32;
+}
+
+/* Monitor Specific */
+QWidget#dark_monitor {
+    background-color: #000000;
+}
+
+/* MacOS Big Sur Window Controls
+   Selector: Applies to all 3 specific IDs */
+QPushButton#win_close, QPushButton#win_min, QPushButton#win_max {
+    border-radius: 6px; /* 12px diameter */
+    border: 1px solid rgba(0, 0, 0, 0.15); /* Subtle inner stroke */
+    min-width: 12px;
+    max-width: 12px;
+    min-height: 12px;
+    max-height: 12px;
+    margin: 0px;
+    padding: 0px;
+    font-weight: 900;
+    font-family: Arial;
+    font-size: 10px;
+    color: transparent; /* Glyph hidden by default */
+}
+
+QPushButton#win_close:hover, QPushButton#win_min:hover, QPushButton#win_max:hover {
+    color: rgba(0, 0, 0, 0.6); /* Glyph visible on hover */
+    border: 1px solid rgba(0, 0, 0, 0.3);
+}
+
+QPushButton#win_close { background-color: #FF5F56; }
+QPushButton#win_min   { background-color: #FFBD2E; }
+QPushButton#win_max   { background-color: #27C93F; }

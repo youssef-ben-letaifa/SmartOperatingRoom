@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Smart OR System
+Comment=Operating Room Control Center
+Exec=/home/youssef-ben-letaifa/anaconda3/envs/youssef/bin/python "/home/youssef-ben-letaifa/Desktop/Youssef  Projects /operating room controller /main.py"
+Icon=/home/youssef-ben-letaifa/Desktop/Youssef  Projects /operating room controller /images/logo.png
+Path=/home/youssef-ben-letaifa/Desktop/Youssef  Projects /operating room controller 
+Terminal=false
+StartupNotify=true
+Categories=Utility;Medical;
