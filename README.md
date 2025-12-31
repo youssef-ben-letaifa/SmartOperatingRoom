@@ -421,7 +421,7 @@ We welcome contributions from the community! Here's how you can help:
 
 MIT License
 
-Copyright (c) 2024 Youssef BEN LETAIFA
+Copyright (c) 2025 Youssef BEN LETAIFA
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -473,6 +473,6 @@ Always consult qualified medical professionals and follow established medical pr
 ![GitHub forks](https://img.shields.io/github/forks/youssef-ben-letaifa/smart-or-controller?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/youssef-ben-letaifa/smart-or-controller?style=social)
 
-**Version 6.0** | Last Updated: December 2024
+**Version 6.0** | Last Updated: December 2025
 
 </div>
