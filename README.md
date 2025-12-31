@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 Smart Operating Room with Hang Gesture and Computer Vision
+# 🏥 Smart Operating Room with Hand Gesture and Computer Vision 
 
 ### Next-Generation Operating Room Control System
 
@@ -271,17 +271,15 @@ smart-or-controller/
 
 ### Application Screenshots
 
-| Main Dashboard | Patient Monitor | Gesture Control |
-|:--------------:|:---------------:|:---------------:|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Monitor](docs/screenshots/monitor.png) | ![Gesture](docs/screenshots/gesture.png) |
+| Main Dashboard | Patient Monitor | Environment Control |
+|:--------------:|:---------------:|:-------------------:|
+| ![Dashboard](Main%20Dashboard.png) | ![Monitor](Patient%20Monitor.png) | ![Environment](Environment%20Control.png) |
 
-| Device Management | Surgeon Dashboard |
-|:-----------------:|:-----------------:|
-| ![Devices](/Environment Control.png) | ![Surgeon](docs/screenshots/surgeon.png) |
+| Application Launch |
+|:------------------:|
+| ![Launch](app%20lunching.png) |
 
 </div>
-
-> **Note**: Add actual screenshots to the `docs/screenshots/` directory
 
 ---
 
