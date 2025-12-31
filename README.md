@@ -275,9 +275,9 @@ smart-or-controller/
 |:--------------:|:---------------:|:---------------:|
 | ![Dashboard](docs/screenshots/dashboard.png) | ![Monitor](docs/screenshots/monitor.png) | ![Gesture](docs/screenshots/gesture.png) |
 
-| Environment Control | Device Management | Surgeon Dashboard |
-|:-------------------:|:-----------------:|:-----------------:|
-| ![Environment](docs/screenshots/environment.png) | ![Devices](docs/screenshots/devices.png) | ![Surgeon](docs/screenshots/surgeon.png) |
+| Device Management | Surgeon Dashboard |
+|:-----------------:|:-----------------:|
+| ![Devices](/Environment Control.png) | ![Surgeon](docs/screenshots/surgeon.png) |
 
 </div>
 
